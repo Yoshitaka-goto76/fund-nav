@@ -1,0 +1,45 @@
+{
+  "updated": "2026-04-19T11:14:26.557674+09:00",
+  "funds": [
+    {
+      "name": "eMAXIS Slim 全世界株式",
+      "code": "0331418A",
+      "nav": 35554,
+      "change": 178,
+      "pct": null,
+      "date": "2026/04/17"
+    },
+    {
+      "name": "eMAXIS Slim 米国株式(S&P500)",
+      "code": "0331120A",
+      "nav": 41172,
+      "change": 262,
+      "pct": null,
+      "date": "2026/04/17"
+    },
+    {
+      "name": "年金プラス",
+      "code": "2931137C",
+      "nav": null,
+      "change": null,
+      "pct": null,
+      "date": null
+    },
+    {
+      "name": "ロボプロ",
+      "code": "2931237C",
+      "nav": null,
+      "change": null,
+      "pct": null,
+      "date": null
+    },
+    {
+      "name": "宇宙関連株式ファンド（ヘッジなし）",
+      "code": "02312213",
+      "nav": null,
+      "change": null,
+      "pct": null,
+      "date": null
+    }
+  ]
+}
