@@ -1,21 +1,21 @@
 {
-  "updated": "2026-04-22T22:04:06.294908+09:00",
+  "updated": "2026-04-23T22:03:36.170951+09:00",
   "funds": [
     {
       "name": "eMAXIS Slim 全世界株式",
       "code": "0331418A",
-      "nav": null,
-      "change": null,
+      "nav": 35810,
+      "change": 200,
       "pct": null,
-      "date": null
+      "date": "2026/04/23"
     },
     {
       "name": "eMAXIS Slim 米国株式(S&P500)",
       "code": "0331120A",
-      "nav": null,
-      "change": null,
+      "nav": 41725,
+      "change": 474,
       "pct": null,
-      "date": null
+      "date": "2026/04/23"
     },
     {
       "name": "年金プラス",
